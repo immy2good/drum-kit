@@ -4,10 +4,10 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 6rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #4d9cea;
 
 }
 
@@ -17,45 +17,45 @@ footer {
 }
 
 .w {
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(231, 24, 241, 0.5)),
     url("./images/tom1.png");
 
 }
 
 .a {
 
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(231, 24, 241, 0.5)),
     url("./images/tom2.png");
 
 }
 
 .s {
 
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(231, 24, 241, 0.5)),
     url("./images/tom1.png");
 }
 
 .d {
 
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(231, 24, 241, 0.5)),
     url("./images/tom3.png");
 }
 
 .j {
 
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(231, 24, 241, 0.5)),
     url("./images/tom4.png");
 }
 
 .k {
 
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(231, 24, 241, 0.5)),
     url("./images/crash.png");
 }
 
 .l {
 
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(231, 24, 241, 0.5)),
     url("./images/snare.png");
 }
 
@@ -64,7 +64,7 @@ footer {
 }
 
 .game-over {
-  background-color: red;
+  background-color: rgb(143, 236, 243);
   opacity: 0.8;
 }
 
@@ -84,7 +84,7 @@ footer {
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
+  color: #8a1ee8;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
